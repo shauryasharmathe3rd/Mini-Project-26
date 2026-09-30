@@ -1,0 +1,8 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+.venv/
+.vscode/
+build/
+engine/
+rrest-syn_csv
+rrest-syn_mat
+rrest-syn_wfdb
